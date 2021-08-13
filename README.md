@@ -2,7 +2,7 @@
 #### Currently working on web and app development 
 ![Currently working on web and app development ](https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w)
 
-
+![Profile views](https://gpvc.arturio.dev/Architlall)  
 
 
 
@@ -25,4 +25,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Architlall)  
 
-![Profile views](https://gpvc.arturio.dev/Architlall)  
+
